@@ -1,0 +1,12 @@
+﻿  string.cpp
+c:\users\jason\documents\visual studio 2015\projects\string\string\string.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\documents\visual studio 2015\projects\string\string\string.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\documents\visual studio 2015\projects\string\string\string.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\documents\visual studio 2015\projects\string\string\string.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\documents\visual studio 2015\projects\string\string\string.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\documents\visual studio 2015\projects\string\string\string.cpp(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\documents\visual studio 2015\projects\string\string\string.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\documents\visual studio 2015\projects\string\string\string.cpp(170): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\documents\visual studio 2015\projects\string\string\string.cpp(222): warning C4018: '<': signed/unsigned mismatch
+  String.vcxproj -> C:\Users\jason\Documents\Visual Studio 2015\Projects\String\Debug\String.exe
+  String.vcxproj -> C:\Users\jason\Documents\Visual Studio 2015\Projects\String\Debug\String.pdb (Partial PDB)
